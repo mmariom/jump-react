@@ -1,4 +1,11 @@
+How to run:
 
+npm i 
+npm start 
+
+-or-
+
+docker compose up -d
 
 additional functionality 
  - implemented docker file and docker compose
